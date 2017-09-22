@@ -12,6 +12,8 @@ body {
 
 .text-big {
     font-size: 300%;
+    position:absolute;
+    left:10px;
 }
 
 .bold {
