@@ -12,7 +12,7 @@ body {
 
 .text-big {
     font-size: 300%;
-    position:absolute;
+    position:relative;
     left:100px;
 }
 
